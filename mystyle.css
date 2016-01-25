@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+body {
+	background-color: gray;
+}
+
+p {
+	color: blue;
+	text-align: center;
+}
+
+ul {
+	text-align:center;
+}
